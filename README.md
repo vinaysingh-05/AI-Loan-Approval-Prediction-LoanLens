@@ -1,4 +1,4 @@
-# AI Loan Approval Prediction
+# AI Loan Approval Prediction (LoanLens)
 
   <p>
     <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
